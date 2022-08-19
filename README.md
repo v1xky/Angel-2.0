@@ -94,3 +94,8 @@ The bot is based of on the original work done by
  - [Dank-del](https://github.com/Dank-del)
  - [SoapDev](https://github.com/SoapDev2018)
  - And many more that we couldn't list it here!
+
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/v1xky/Angel-2.0"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
